@@ -2,7 +2,7 @@ name: V2Ray Config Extractor & Checker
 
 on:
   schedule:
-   - cron: '0 0 * * *'
+   - cron: '30 2,8,14,20 * * *'
   workflow_dispatch:
 
 permissions:
