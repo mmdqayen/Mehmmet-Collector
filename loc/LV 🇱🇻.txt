@@ -1,2 +1,2 @@
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&flow=&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ALV
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ALV
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ALV
