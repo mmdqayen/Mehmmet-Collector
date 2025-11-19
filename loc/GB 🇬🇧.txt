@@ -1,9 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443#%253E%253E%2540shadowproxy66%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@62.100.205.100:990?note=@freeOnlineVPN#%253E%253E%2540v2ray_configs_pool%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWGpNUUllbTB1U2hHdlJ6T3BmeWli@89.185.84.185:443#%253E%253E%2540FreakConfig%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMHJBTFY4YnZqYVJIRDFoZzhTbXVO@89.185.84.185:443#%253E%253E%2540FreakConfig%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%253E%253E%2540ShadowsocksM%3A%3AGB
-vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%253E%253E%2540v2ray1_ng%3A%3AGB
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%253E%253E%2540FreakConfig%3A%3AGB
 vless://db4f4cab-46ac-404b-a0a2-6fffdfdd676d@ccccccccccc.zabc.net:2096?&security=tls&fp=chrome&alpn=h3&sni=ccccccccccc.zabc.net&type=ws&headerType=none&host=ccccccccccc.zabc.net&path=%2Fapi1#%253E%253E%2540v2nodes%3A%3AGB
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#%253E%253E%2540oneclickvpnkeys%3A%3AGB
