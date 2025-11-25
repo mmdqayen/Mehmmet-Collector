@@ -1,1 +1,0 @@
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AEE
