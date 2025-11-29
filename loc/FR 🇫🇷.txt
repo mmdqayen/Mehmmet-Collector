@@ -4,6 +4,6 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3AFR
 hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
-hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%253E%253E%2540V2rayNG3%3A%3AFR
