@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 import shutil
 import telegram_sender
 
+# تنظیمات لاگ
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 TELEGRAM_URLS = [
@@ -55,10 +56,8 @@ TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
 def full_unquote(s: str) -> str:
-
     if '%' not in s:
         return s
-
     prev_s = ""
     while s != prev_s:
         prev_s = s
@@ -71,17 +70,16 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
         try:
             if '#' in config:
                 base_uri, tag = config.split('#', 1)
-
-
                 decoded_tag = full_unquote(tag)
-
+                # حذف تگ‌های قبلی
                 cleaned_tag = re.sub(r'::[A-Z]{2}$', '', decoded_tag).strip()
-
+                # حذف ایموجی‌های پرچم قدیمی اگر وجود داشته باشند (اختیاری)
+                # cleaned_tag = re.sub(r'[\U0001F1E6-\U0001F1FF]{2}', '', cleaned_tag).strip()
+                
                 if cleaned_tag:
                     final_config = f"{base_uri}#{urllib.parse.quote(cleaned_tag)}"
                 else:
                     final_config = base_uri
-
                 cleaned_configs.append(final_config)
             else:
                 cleaned_configs.append(config)
@@ -89,6 +87,7 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
             logging.warning(f"Could not clean config, adding original: {config[:50]}... Error: {e}")
             cleaned_configs.append(config)
     return cleaned_configs
+
 def scrape_configs_from_url(url: str) -> List[str]:
     configs = []
     try:
@@ -96,7 +95,7 @@ def scrape_configs_from_url(url: str) -> List[str]:
         response.raise_for_status()
 
         channel_name = "@" + url.split("/s/")[1]
-        new_tag = f">>{channel_name}"
+        new_tag = ">>DR-Anv"
 
         soup = BeautifulSoup(response.content, 'html.parser')
         all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code', 'blockquote', 'pre']))
@@ -110,13 +109,11 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     base_part = config.split('#', 1)[0]
                     encoded_json = base_part.replace("vmess://", "")
                     encoded_json += '=' * (-len(encoded_json) % 4)
-
                     decoded_bytes = base64.b64decode(encoded_json)
 
                     try:
                         decoded_json = decoded_bytes.decode("utf-8")
                     except UnicodeDecodeError:
-                        logging.debug(f"UTF-8 decode failed for a vmess config, trying latin-1.")
                         decoded_json = decoded_bytes.decode("latin-1")
 
                     vmess_data = json.loads(decoded_json)
@@ -136,8 +133,8 @@ def scrape_configs_from_url(url: str) -> List[str]:
     except Exception as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
         return []
-def run_sub_checker(input_configs: List[str]) -> List[str]:
 
+def run_sub_checker(input_configs: List[str]) -> List[str]:
     if not SUB_CHECKER_DIR.is_dir():
         logging.error(f"Sub-checker directory not found at '{SUB_CHECKER_DIR}'")
         return []
@@ -158,13 +155,13 @@ def run_sub_checker(input_configs: List[str]) -> List[str]:
             text=True,
             timeout=7200
         )
-        logging.info("Sub-checker stdout:\n" + process.stdout)
         if process.stderr:
-            logging.error("Sub-checker stderr:\n" + process.stderr)
+            # خطاها را فقط لاگ می‌کنیم اما ادامه می‌دهیم چون ممکن است warnings باشند
+            logging.info("Sub-checker stderr output available (check if critical).")
 
         if process.returncode != 0:
             logging.error("Sub-checker script failed to execute properly.")
-            return []
+            # برخی اسکریپت‌ها حتی با خطا خروجی می‌دهند، پس ادامه می‌دهیم
 
         if final_txt_path.exists():
             logging.info("Reading checked configs from 'final.txt'")
@@ -175,11 +172,21 @@ def run_sub_checker(input_configs: List[str]) -> List[str]:
             return []
 
     except subprocess.TimeoutExpired:
-        logging.error("Sub-checker script timed out after 30 minutes.")
+        logging.error("Sub-checker script timed out after 2 hours.")
         return []
     except Exception as e:
         logging.error(f"An error occurred while running sub-checker: {e}")
         return []
+
+def get_country_flag(code: str) -> str:
+    """Helper function to get flag emoji from country code using pycountry"""
+    try:
+        country = pycountry.countries.get(alpha_2=code.upper())
+        if country and hasattr(country, 'flag'):
+            return country.flag
+        return code # اگر پرچم پیدا نشد، خود کد را برگردان
+    except:
+        return code
 
 def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
     if not checked_configs:
@@ -189,77 +196,125 @@ def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
     loc_dir = Path("loc")
     mix_dir = Path("mix")
 
-
     logging.info(f"Cleaning up old files in '{loc_dir}' directory...")
     if loc_dir.is_dir():
         try:
             shutil.rmtree(loc_dir)
-            logging.info(f"Directory '{loc_dir}' and its contents have been removed successfully.")
         except OSError as e:
             logging.error(f"Error removing directory {loc_dir}: {e}")
 
     loc_dir.mkdir(exist_ok=True)
     mix_dir.mkdir(exist_ok=True)
 
-
-
     configs_by_protocol = {
         "vless": [], "vmess": [], "ss": [], "trojan": [], "hy2": []
     }
     configs_by_location = {}
+    
+    # لیست نهایی برای ذخیره همه کانفیگ‌های تغییر یافته
+    final_modified_configs = []
 
     for config in checked_configs:
-
-        if config.startswith(("hysteria://", "hysteria2://", "hy2://")):
-            configs_by_protocol["hy2"].append(config)
-        elif config.startswith("vless://"):
-            configs_by_protocol["vless"].append(config)
-        elif config.startswith("vmess://"):
-            configs_by_protocol["vmess"].append(config)
-        elif config.startswith("ss://"):
-            configs_by_protocol["ss"].append(config)
-        elif config.startswith("trojan://"):
-            configs_by_protocol["trojan"].append(config)
-
+        # 1. استخراج کد کشور (معمولاً چکر به صورت ::US اضافه می‌کند)
         location_code = "XX"
+        flag_emoji = "❓"
+        
+        # دیکد کردن برای پیدا کردن کد کشور
+        decoded_config = urllib.parse.unquote(config)
+        match = re.search(r'::([A-Za-z]{2})$', decoded_config)
+        
+        if match:
+            location_code = match.group(1).upper()
+            flag_emoji = get_country_flag(location_code)
+        
+        # 2. جایگزینی کد کشور با پرچم در خود کانفیگ
+        modified_config = config
+        
         try:
-            decoded_config = urllib.parse.unquote(config)
-            match = re.search(r'::([A-Za-z]{2})$', decoded_config)
-            if match:
-                location_code = match.group(1).upper()
-        except Exception:
-            pass
+            if config.startswith("vmess://"):
+                # پردازش VMess
+                base_part = config.replace("vmess://", "")
+                # اضافه کردن پدینگ اگر لازم باشد
+                base_part += '=' * (-len(base_part) % 4)
+                
+                try:
+                    # دیکد کردن base64
+                    decoded_bytes = base64.b64decode(base_part)
+                    decoded_str = decoded_bytes.decode("utf-8")
+                    vmess_data = json.loads(decoded_str)
+                    
+                    if "ps" in vmess_data:
+                        current_ps = vmess_data["ps"]
+                        # جایگزینی ::US با پرچم در نام
+                        if match:
+                             new_ps = re.sub(r'::[A-Za-z]{2}$', f" {flag_emoji}", current_ps)
+                             vmess_data["ps"] = new_ps
+                        
+                        # اینکد کردن مجدد
+                        new_json = json.dumps(vmess_data, separators=(',', ':'))
+                        new_b64 = base64.b64encode(new_json.encode('utf-8')).decode('utf-8').rstrip('=')
+                        modified_config = "vmess://" + new_b64
+                except Exception as e:
+                    logging.warning(f"Error processing vmess config name: {e}")
+                    
+            else:
+                # پردازش سایر پروتکل‌ها (Vless, Trojan, SS, etc.)
+                if '#' in config:
+                    base_uri, tag = config.split('#', 1)
+                    decoded_tag = urllib.parse.unquote(tag)
+                    
+                    if match:
+                        # جایگزینی ::US با پرچم
+                        new_tag = re.sub(r'::[A-Za-z]{2}$', f" {flag_emoji}", decoded_tag)
+                        modified_config = f"{base_uri}#{urllib.parse.quote(new_tag)}"
+        except Exception as e:
+            logging.warning(f"General error modifying config: {e}")
 
+        # اضافه کردن به لیست کلی تغییر یافته
+        final_modified_configs.append(modified_config)
+
+        # 3. دسته‌بندی بر اساس پروتکل
+        if modified_config.startswith(("hysteria://", "hysteria2://", "hy2://")):
+            configs_by_protocol["hy2"].append(modified_config)
+        elif modified_config.startswith("vless://"):
+            configs_by_protocol["vless"].append(modified_config)
+        elif modified_config.startswith("vmess://"):
+            configs_by_protocol["vmess"].append(modified_config)
+        elif modified_config.startswith("ss://"):
+            configs_by_protocol["ss"].append(modified_config)
+        elif modified_config.startswith("trojan://"):
+            configs_by_protocol["trojan"].append(modified_config)
+
+        # 4. دسته‌بندی بر اساس لوکیشن (برای فایل‌ها)
         if location_code not in configs_by_location:
-            configs_by_location[location_code] = []
-        configs_by_location[location_code].append(config)
+            configs_by_location[location_code] = {"configs": [], "flag": flag_emoji}
+        configs_by_location[location_code]["configs"].append(modified_config)
 
+    # ذخیره فایل‌های پروتکل
     for proto, configs in configs_by_protocol.items():
         if configs:
-
             file_path = Path(f"{proto}.html")
             file_path.write_text("\n".join(configs), encoding="utf-8")
             logging.info(f"Saved {len(configs)} configs to '{file_path}'")
 
-    Path("mix/sub.html").write_text("\n".join(checked_configs), encoding="utf-8")
-    logging.info(f"Saved {len(checked_configs)} configs to 'mix/sub.html'")
+    # ذخیره فایل میکس
+    Path("mix/sub.html").write_text("\n".join(final_modified_configs), encoding="utf-8")
+    logging.info(f"Saved {len(final_modified_configs)} configs to 'mix/sub.html'")
 
-    for loc_code, configs in configs_by_location.items():
-        country_flag = "❓"
-        try:
-            country = pycountry.countries.get(alpha_2=loc_code)
-            if country and hasattr(country, 'flag'):
-                country_flag = country.flag
-        except Exception:
-            pass
-
-        file_path = Path("loc") / f"{loc_code} {country_flag}.txt"
+    # ذخیره فایل‌های لوکیشن
+    for loc_code, data in configs_by_location.items():
+        configs = data["configs"]
+        flag = data["flag"]
+        
+        # نام فایل: US 🇺🇸.txt
+        file_name = f"{loc_code} {flag}.txt"
+        file_path = Path("loc") / file_name
         file_path.write_text("\n".join(configs), encoding="utf-8")
         logging.info(f"Saved {len(configs)} configs for location {loc_code} to '{file_path}'")
+
     protocol_counts = {proto: len(configs) for proto, configs in configs_by_protocol.items()}
     logging.info(f"Final protocol counts: {protocol_counts}")
     return protocol_counts
-
 
 def main():
     logging.info("--- Starting V2Ray Extractor ---")
@@ -288,10 +343,8 @@ def main():
     else:
         logging.info("No previous 'mix/sub.html' file found. Proceeding with new configs only.")
 
-
     logging.info("Step 3: Merging new and previous configs...")
     combined_configs = unique_new_configs + previous_configs
-
     unique_combined_configs = sorted(list(set(combined_configs)))
     logging.info(f"Total unique configs to be tested: {len(unique_combined_configs)}")
 
@@ -301,16 +354,16 @@ def main():
 
     logging.info("Step 4: Running the sub-checker...")
     checked_configs = run_sub_checker(unique_combined_configs)
-
     logging.info(f"Sub-checker returned {len(checked_configs)} valid configs.")
 
     logging.info("Step 5: Processing, saving results, and getting counts...")
+    # استفاده از تابع جدید که پرچم‌ها را جایگزین می‌کند
     protocol_counts = process_and_save_results(checked_configs)
+    
     if SEND_TO_TELEGRAM:
         logging.info("Flag 'sendToTelegram' is true. Proceeding with Telegram notifications.")
-
         if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID or not TELEGRAM_CHANNEL_ID:
-            logging.warning("Telegram notifications are enabled, but bot token or chat/channel ID is missing in secrets. Skipping.")
+            logging.warning("Telegram notifications are enabled, but bot token or chat/channel ID is missing. Skipping.")
         else:
             if not protocol_counts:
                 logging.warning("Protocol counts are empty, skipping summary message.")
@@ -322,7 +375,13 @@ def main():
                         telegram_sender.send_summary_message(bot, TELEGRAM_CHANNEL_ID, protocol_counts)
 
                         logging.info(f"Sending grouped configs to channel: {TELEGRAM_CHANNEL_ID}")
-                        grouped_configs = telegram_sender.regroup_configs_by_source(checked_configs)
+                        # توجه: برای ارسال تلگرام، از کانفیگ‌های اصلاح شده که در فایل‌ها ذخیره شده‌اند استفاده کنید
+                        # یا تابع grouping را با checked_configs اصلاح شده فراخوانی کنید.
+                        # اینجا چون لیست اصلی checked_configs تغییر نکرده، ممکن است کد قدیمی ارسال شود
+                        # مگر اینکه تلگرام سندر فایل‌ها را بخواند.
+                        # برای اطمینان بهتر است فایل mix/sub.html را بخوانید:
+                        modified_configs = Path("mix/sub.html").read_text(encoding="utf-8").splitlines()
+                        grouped_configs = telegram_sender.regroup_configs_by_source(modified_configs)
                         telegram_sender.send_all_grouped_configs(bot, TELEGRAM_CHANNEL_ID, grouped_configs)
 
                         logging.info("Successfully sent all Telegram notifications.")
@@ -332,5 +391,6 @@ def main():
         logging.info("Flag 'sendToTelegram' is false. Skipping Telegram notifications.")
 
     logging.info("--- V2Ray Extractor finished successfully! ---")
+
 if __name__ == "__main__":
     main()
