@@ -77,6 +77,8 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
                 # cleaned_tag = re.sub(r'[\U0001F1E6-\U0001F1FF]{2}', '', cleaned_tag).strip()
                 
                 if cleaned_tag:
+                    # اینجا چون تگ‌های قدیمی را تمیز می‌کنیم، بهتر است دوباره انکود شوند تا استاندارد باشند
+                    # اما طبق درخواست شما در مرحله نهایی انکود برداشته می‌شود. اینجا چون ورودی است دست نمی‌زنیم
                     final_config = f"{base_uri}#{urllib.parse.quote(cleaned_tag)}"
                 else:
                     final_config = base_uri
@@ -216,8 +218,9 @@ def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
 
     for config in checked_configs:
         # 1. استخراج کد کشور (معمولاً چکر به صورت ::US اضافه می‌کند)
-        location_code = "XX"
-        flag_emoji = "❓"
+        # تغییر: اگر کد کشور پیدا نشد، پیش‌فرض 🏴‍☠️ باشد
+        location_code = "🏴‍☠️"
+        flag_emoji = "🏴‍☠️"
         
         # دیکد کردن برای پیدا کردن کد کشور
         decoded_config = urllib.parse.unquote(config)
@@ -266,7 +269,9 @@ def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
                     if match:
                         # جایگزینی ::US با پرچم
                         new_tag = re.sub(r'::[A-Za-z]{2}$', f" {flag_emoji}", decoded_tag)
-                        modified_config = f"{base_uri}#{urllib.parse.quote(new_tag)}"
+                        
+                        # تغییر: حذف urllib.parse.quote طبق درخواست شما
+                        modified_config = f"{base_uri}#{new_tag}"
         except Exception as e:
             logging.warning(f"General error modifying config: {e}")
 
@@ -310,7 +315,7 @@ def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
         file_name = f"{loc_code} {flag}.txt"
         file_path = Path("loc") / file_name
         file_path.write_text("\n".join(configs), encoding="utf-8")
-        logging.info(f"Saved {len(configs)} configs for location {loc_code} to '{file_path}'")
+        logging.info(f"Saved {len(configs)} for location {loc_code} to '{file_path}'")
 
     protocol_counts = {proto: len(configs) for proto, configs in configs_by_protocol.items()}
     logging.info(f"Final protocol counts: {protocol_counts}")
