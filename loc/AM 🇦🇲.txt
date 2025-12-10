@@ -1,0 +1,1 @@
+vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&sid=#%3E%3EDR-Anv 🇦🇲
