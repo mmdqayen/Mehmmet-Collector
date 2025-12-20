@@ -1,1 +1,1 @@
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20XX 🇫🇮
