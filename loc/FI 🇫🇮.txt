@@ -1,1 +1,1 @@
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20XX%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20XX%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
