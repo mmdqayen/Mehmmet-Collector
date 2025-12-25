@@ -1,2 +1,1 @@
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇵🇱
-vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=&encryption=none&type=ws#%3E%3EDR-Anv 🇵🇱
