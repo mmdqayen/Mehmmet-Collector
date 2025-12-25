@@ -1,1 +1,0 @@
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@77.42.77.66:40200?type=tcp&encryption=none&security=none#%3E%3EDR-Anv 🇫🇮
