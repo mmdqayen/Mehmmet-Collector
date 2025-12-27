@@ -1,1 +1,2 @@
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3EDR-Anv 🇫🇮
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&security=none&type=ws&host=cloudflare.com&path=/#%3E%3EDR-Anv 🇫🇮
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#%3E%3EDR-Anv 🇫🇮
