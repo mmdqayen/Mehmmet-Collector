@@ -1,1 +1,2 @@
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@77.239.107.75:443?security=reality&encryption=none&pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU&headerType=none&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=ru1.jugploer.icu#%3E%3EDR-Anv 🇷🇺
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
