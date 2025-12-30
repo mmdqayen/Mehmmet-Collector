@@ -1,7 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUWd3SE15Z2tNYmlDWTRKeTNXWEhNbnhhSzNQdzdxS0xNck1TdnV5Y2s4ZFRXazlmQ3pRamVZV3lXM3dkY2ZEVjUzTXBtZjE1YXhDZTc0ZUJqWlhIMjlvMXR4OVUxV1Y@info.mattesaira.cc:43154#%3E%3EDR-Anv%20XX%20%F0%9F%87%AB%F0%9F%87%AE%20XX 🇫🇮
-vless://23d94ce7-81fe-4a37-935d-0fa980485c51@144.31.119.246:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi1.jugploer.icu&security=reality&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&sid=#%3E%3EDR-Anv 🇫🇮
 vless://23d94ce7-81fe-4a37-935d-0fa980485c51@144.31.232.48:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#%3E%3EDR-Anv 🇫🇮
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@144.31.119.246:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi1.jugploer.icu&security=reality&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&sid=#%3E%3EDR-Anv 🇫🇮
 vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi1.jugploer.icu&security=reality&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&sid=#%3E%3EDR-Anv 🇫🇮
-vless://47867494-9509-4c32-a90a-e9253b033279@65.109.217.108:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3EDR-Anv 🇫🇮
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#%3E%3EDR-Anv 🇫🇮
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#%3E%3EDR-Anv 🇫🇮
