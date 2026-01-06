@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#%3E%3EDR-Anv 🇬🇧
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDJjMjdiZWExOWZjNGRi@158.220.80.123:48436#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDJjMjdiZWExOWZjNGRi@158.220.80.123:48436#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%3E%3EDR-Anv 🇬🇧
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%3E%3EDR-Anv 🇬🇧
 vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%3E%3EDR-Anv 🇬🇧
-vless://b28f6dd5-2998-47f9-8ca1-4d9f0d785d2e@57.129.137.222:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&sni=joss.gvpn2.web.id&fp=randomized#%3E%3EDR-Anv 🇬🇧
