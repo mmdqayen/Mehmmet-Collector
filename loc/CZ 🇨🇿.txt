@@ -1,4 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3EDR-Anv 🇨🇿
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.2.219:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=eston.global.ssl.fastly.net&type=ws#%3E%3EDR-Anv 🇨🇿
-vless://08c7f096-d057-4d53-82fd-c739d372887b@109.95.65.246:2013?path=%2F&security=none&encryption=none&host=guilanet.com&type=ws#%3E%3EDR-Anv 🇨🇿
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80?encryption=none&type=ws&host=chz.global.ssl.fastly.net&path=/?ed%3D1024&security=none#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%BF 🇨🇿
+vless://7fee5dc4-c486-4f2b-8bcf-6af076ab2f66@146.75.119.82:80?mode=auto&path=%2FZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=none&encryption=none&host=Zedmodeonjoni.global.ssl.fastly.net&type=xhttp#%3E%3EDR-Anv 🇨🇿
