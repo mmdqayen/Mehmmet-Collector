@@ -1,1 +1,3 @@
+vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@ficdn16.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn16.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20XX 🇫🇮
 vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@fi4.node.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv 🇫🇮
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@bridge2.pool.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv 🇫🇮
