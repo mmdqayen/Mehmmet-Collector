@@ -1,1 +1,1 @@
-vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@158.160.135.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv 🇷🇺
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@158.160.135.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
