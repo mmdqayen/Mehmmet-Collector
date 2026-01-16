@@ -1,2 +1,4 @@
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.225:60010#%3E%3EDR-Anv 🇷🇺
+ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw@46.17.43.151:10081#%3E%3EDR-Anv 🇷🇺
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%3E%3EDR-Anv 🇷🇺
-vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@158.160.135.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@158.160.135.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
