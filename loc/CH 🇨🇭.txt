@@ -1,1 +1,1 @@
-vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?security=none&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%AD 🇨🇭
+vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?security=none&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%A8%F0%9F%87%AD 🇨🇭
