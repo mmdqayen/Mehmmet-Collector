@@ -1,1 +1,2 @@
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇫🇮
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn1.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
