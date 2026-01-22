@@ -1,4 +1,3 @@
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn1.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://924cd0c0-7fd0-4d0f-a23d-6b66808c23af@chatgpt.com:443?flow=&type=xhttp&host=dl.rangsardi13.ir&path=dl?ed%3D2560&mode=auto&security=tls&sni=chatgptcom.RangsarDi13.iR.&alpn=h2&fp=edge&allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
-vless://d54c5b74-b789-4a58-a705-40f8a2d7051b@135.181.251.219:17071?security=none&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇫🇮
+vless://924cd0c0-7fd0-4d0f-a23d-6b66808c23af@chatgpt.com:443?flow=&type=xhttp&host=dl.rangsardi13.ir&path=dl?ed%3D2560&mode=auto&security=tls&sni=chatgptcom.RangsarDi13.iR.&alpn=h2&fp=edge&allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
