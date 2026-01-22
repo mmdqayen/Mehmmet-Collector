@@ -1,0 +1,1 @@
+vless://bc9897a9-2ee3-4774-af0a-1e8aaff1006c@45.92.219.84:53049?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%3E%3EDR-Anv 🇹🇷
