@@ -1,2 +1,0 @@
-vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip1-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertfn1.global.ssl.fastly.net&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rb11.fasst11.shop&fp=chrome&type=ws&sni=rb11.fasst11.shop#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
