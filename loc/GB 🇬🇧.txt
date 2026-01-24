@@ -1,4 +1,5 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%3E%3EDR-Anv 🇬🇧
-vless://85571fb3-6d15-49b0-e1d6-cf8b6dbd623e@23.81.34.138:443?security=none&encryption=none&host=bmw.co%F0%9F%9F%AA&headerType=http&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+vless://85571fb3-6d15-49b0-e1d6-cf8b6dbd623e@23.81.34.138:443?security=none&encryption=none&host=bmw.co%F0%9F%9F%AA&headerType=http&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
 vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&sni=joss.gvpn2.web.id&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇬🇧
+vless://bfcb732f-87ab-4879-bcb7-357c4129acb3@uk.aparat-movies-download.ir:42536?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%3E%3EDR-Anv 🇬🇧
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%3E%3EDR-Anv 🇬🇧
