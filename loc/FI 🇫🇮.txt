@@ -1,2 +1,1 @@
-vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#%3E%3EDR-Anv%20XX 🇫🇮
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮

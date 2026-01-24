@@ -1,2 +1,1 @@
-vless://277218be-5c92-46f0-8fc0-eb0899214ad0@newde.asreabi.ir:443?path=%2Fmedia.steampowered.com%3Fed%3D443&security=&encryption=none&type=ws#%3E%3EDR-Anv 🇦🇪
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=%2Fws&security=none&encryption=none&host=minoomizban.ir&type=ws#%3E%3EDR-Anv 🇦🇪
+vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=%2Fws&security=none&encryption=none&host=minoomizban.ir&type=ws#%3E%3EDR-Anv%20%F0%9F%87%A6%F0%9F%87%AA 🇦🇪

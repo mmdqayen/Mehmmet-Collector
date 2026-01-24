@@ -1,2 +1,1 @@
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#%3E%3EDR-Anv 🇨🇭
-vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#%3E%3EDR-Anv 🇨🇭
+vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%AD 🇨🇭
