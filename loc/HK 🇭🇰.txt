@@ -1,1 +1,1 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@83.229.122.72:443/?type=ws&encryption=none&flow=&host=sg.aniua.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniua.qzz.io&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇭🇰
+vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388/?type=ws&encryption=none&flow=&host=sg.aniua.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniua.qzz.io&allowInsecure=1#%3E%3EDR-Anv 🇭🇰
