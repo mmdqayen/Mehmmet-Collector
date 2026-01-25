@@ -1,0 +1,4 @@
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%3E%3EDR-Anv 🇨🇭
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%3E%3EDR-Anv 🇨🇭
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%3E%3EDR-Anv 🇨🇭
+vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#%3E%3EDR-Anv 🇨🇭

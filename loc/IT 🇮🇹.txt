@@ -1,1 +1,1 @@
-vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%AE%F0%9F%87%B9 🇮🇹
+vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%AE%F0%9F%87%B9%20%F0%9F%87%AE%F0%9F%87%B9 🇮🇹
