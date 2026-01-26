@@ -1,1 +1,0 @@
-vless://37e6fd7d-edb2-4fde-aead-0d804199c1f6@fox1.wizard2shop.org:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=istt.wizard2shop.com&path=/?ed%3D2560&sni=istt.wizard2shop.com&fp=360#%3E%3EDR-Anv 🇹🇷

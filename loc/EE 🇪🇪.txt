@@ -1,0 +1,1 @@
+vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#%3E%3EDR-Anv 🇪🇪
