@@ -1,1 +1,1 @@
-vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#%3E%3EDR-Anv 🇱🇻
+vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#%3E%3EDR-Anv%20%F0%9F%87%B1%F0%9F%87%BB 🇱🇻

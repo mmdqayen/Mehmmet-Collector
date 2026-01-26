@@ -1,4 +1,0 @@
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42888/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇪🇸
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42223/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇪🇸
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%3E%3EDR-Anv 🇪🇸
-vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%3E%3EDR-Anv%20XX%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%AA%F0%9F%87%B8 🇪🇸
