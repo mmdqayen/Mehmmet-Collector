@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%3E%3EDR-Anv%20%F0%9F%87%B0%F0%9F%87%B7 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%3E%3EDR-Anv 🇰🇷
+vless://00000000-0000-4000-8000-000000000000@175.118.73.120:17223/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇰🇷
+vless://00000000-0000-4000-8000-000000000000@175.123.172.254:30003/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇰🇷
+vless://00000000-0000-4000-8000-000000000000@211.228.123.55:35654/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇰🇷
