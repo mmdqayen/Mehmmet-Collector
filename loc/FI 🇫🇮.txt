@@ -1,0 +1,1 @@
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=ficdn2.suio.me#%3E%3EDR-Anv 🇫🇮
