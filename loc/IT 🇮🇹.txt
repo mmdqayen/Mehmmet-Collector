@@ -1,1 +1,2 @@
 vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3EDR-Anv 🇮🇹
+vless://38cc3dff-5114-429f-9a45-fed484086c47@it1.persianhostnet.ir:3124?encryption=none&security=none&type=tcp&headerType=none#%3E%3EDR-Anv 🇮🇹
