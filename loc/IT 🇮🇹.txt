@@ -1,1 +1,2 @@
-vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3EDR-Anv 🇮🇹
+vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3EDR-Anv%20%F0%9F%87%AE%F0%9F%87%B9 🇮🇹
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@itcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=itcdn1.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇮🇹
