@@ -1,13 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@media.mothyleela.cfd:40521#%3E%3EDR-Anv 🇫🇮
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%3E%3EDR-Anv 🇫🇮
-vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn15.suio.me&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn13.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.94:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn13.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn15.suio.me&allowInsecure=1&fp=chrome#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn3.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn9.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn9.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
-vless://d616878a-b7c6-41c3-87bd-9df359389be7@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%3E%3EDR-Anv 🇫🇮
+vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80?path=%2F&security=&encryption=none&host=mihan-germar2.global.ssl.fastly.net&type=ws#%3E%3EDR-Anv 🇫🇮
