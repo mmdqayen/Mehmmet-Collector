@@ -1,1 +1,1 @@
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%3E%3EDR-Anv 🇸🇪
+vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#%3E%3EDR-Anv 🇸🇪

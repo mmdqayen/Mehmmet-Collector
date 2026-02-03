@@ -1,3 +1,0 @@
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=1&sni=www.nintendogames.net#%3E%3EDR-Anv 🇸🇬
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&sni=www.nintendogames.net#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬

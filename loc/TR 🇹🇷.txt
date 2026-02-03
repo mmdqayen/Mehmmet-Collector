@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%3E%3EDR-Anv 🇹🇷
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#%3E%3EDR-Anv%20%F0%9F%87%B9%F0%9F%87%B7 🇹🇷
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#%3E%3EDR-Anv%20%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%87%B9%F0%9F%87%B7 🇹🇷
