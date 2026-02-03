@@ -1,1 +1,1 @@
-vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#%3E%3EDR-Anv 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%3E%3EDR-Anv%20%F0%9F%87%B3%F0%9F%87%B4%20XX 🇸🇪
