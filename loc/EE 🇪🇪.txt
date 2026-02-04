@@ -1,0 +1,1 @@
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%3E%3EDR-Anv 🇪🇪
