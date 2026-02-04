@@ -1,2 +1,2 @@
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇸🇪
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@uk.spectrum.vu:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aYcsNi9jR1buOhewUBcAsP0XJOQ7ps2gC42-raEiJ00&security=reality&sni=google.com&type=tcp#%3E%3EDR-Anv 🇸🇪
+vless://0f4173c3-07f3-434f-bcb7-d261764f5c37@speedtest.net:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=xhttpreality-germany.global.ssl.fastly.net&type=xhttp#%3E%3EDR-Anv 🇸🇪
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AA 🇸🇪
