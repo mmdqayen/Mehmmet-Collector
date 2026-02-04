@@ -1,5 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%3E%3EDR-Anv 🇬🇧
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3EDR-Anv 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzY1YTBhZDY2OGVlM2Jh@57.128.190.114:10634#%3E%3EDR-Anv 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%3E%3EDR-Anv 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%3E%3EDR-Anv 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%3E%3EDR-Anv 🇬🇧
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3EDR-Anv 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#%3E%3EDR-Anv 🇬🇧
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cdnjs.com:443?path=%2Fcahttingws%3Fed%3D2560&security=tls&encryption=none&host=639057258114114299.civic-perma.info&fp=chrome&type=ws&sni=639057258114114299.civic-perma.info#%3E%3EDR-Anv 🇬🇧
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20XX 🇬🇧
+vless://979b6822-d65a-400d-89f8-30391903ac20@chatgpt.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&fp=chrome#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20XX 🇬🇧
+vless://979b6822-d65a-400d-89f8-30391903ac20@104.18.32.47:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&fp=chrome#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20XX 🇬🇧
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#%3E%3EDR-Anv 🇬🇧
