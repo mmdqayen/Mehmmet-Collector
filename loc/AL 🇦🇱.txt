@@ -1,2 +1,1 @@
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3EDR-Anv 🇦🇱
 vless://f3de5b41-e517-4b49-852e-4d0ee40d4a18@albania.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#%3E%3EDR-Anv 🇦🇱
