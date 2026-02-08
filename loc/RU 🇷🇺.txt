@@ -1,0 +1,2 @@
+vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#%3E%3EDR-Anv%20XX 🇷🇺
+vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@ru2.ultima.foundation:4443/?type=tcp&encryption=none&flow=#%3E%3EDR-Anv 🇷🇺
