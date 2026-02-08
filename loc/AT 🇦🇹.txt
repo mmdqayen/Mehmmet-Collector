@@ -1,0 +1,1 @@
+vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@at.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=chrome&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff#%3E%3EDR-Anv 🇦🇹
