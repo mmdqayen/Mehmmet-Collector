@@ -1,1 +1,2 @@
-vless://e6ec1d89-17fc-4de7-af89-81cd51022526@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#%3E%3EDR-Anv 🇯🇵
+vless://e6ec1d89-17fc-4de7-af89-81cd51022526@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
