@@ -1,5 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
-vless://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#%3E%3EDR-Anv 🇵🇱
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.55:5555/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3EDR-Anv 🇵🇱
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
+vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.55:5555/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=eurofurence.org&type=tcp#%3E%3EDR-Anv 🇵🇱
