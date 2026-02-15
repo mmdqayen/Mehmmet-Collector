@@ -1,1 +1,0 @@
-vless://650cbf60-989d-4f36-883e-f78e9947b956@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&spx=%2FTELEGRAM--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#%3E%3EDR-Anv 🇹🇷
