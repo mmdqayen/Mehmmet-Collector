@@ -1,5 +1,3 @@
 vless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FSpringHQ%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL-%40SpringHQ-TEL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=music.parvareshmorghe.ir&fp=chrome&type=ws&allowInsecure=0&sni=music.parvareshmorghe.ir#%3E%3EDR-Anv 🇫🇮
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn20.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.38:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn22.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%3E%3EDR-Anv 🇫🇮
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
