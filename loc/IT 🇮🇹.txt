@@ -1,0 +1,2 @@
+vless://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#%3E%3EDR-Anv 🇮🇹
+vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gmail.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3EDR-Anv 🇮🇹
