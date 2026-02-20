@@ -1,1 +1,0 @@
-vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F140.245.53.45%3D443#%3E%3EDR-Anv%20%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%87%BA%F0%9F%87%B8 🇨🇦

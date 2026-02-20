@@ -1,13 +1,7 @@
 vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?path=%2Fupload&security=&encryption=none&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=&encryption=none&headerType=&type=tcp#%3E%3EDR-Anv 🇫🇮
 vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3EDR-Anv%20XX 🇫🇮
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?type=ws&security=tls&path=/?ed=2560&Telegram+@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA 🇫🇮
-vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%3E%3EDR-Anv 🇫🇮
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn14.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇫🇮
 vless://af048307-527c-4178-8d56-271ac082870b@31.56.205.56:32480?security=none&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇫🇮
-vless://bb798d4c-6c86-404d-b4de-0884fc48d54a@146.75.121.194:80/?type=ws&encryption=none&flow=&host=viper7.global.ssl.fastly.net&path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG#%3E%3EDR-Anv 🇫🇮
 vless://cbb94bf1-02cc-46ba-bc01-061b5f38e0ac@31.56.205.56:13612?path=%2F&security=none&encryption=none&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://f165c3b8-632d-4648-9d4b-0a3749244ba9@45.144.53.232:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=moktana.digital&fp=chrome&security=reality&pbk=ywp9ahXQQ1IhSvwSIq-uXSiIooKDKEPCRNAIUWgU1Gg&sid=1255224aa4e426f8#%3E%3EDR-Anv 🇫🇮
