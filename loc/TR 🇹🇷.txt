@@ -1,3 +1,1 @@
-vless://a634a066-a73c-4dc6-93d6-d235eba56a75@172.64.155.209:2052/?type=ws&encryption=none&flow=&host=metaplayer.gameredzone.top&path=%2Ft.me.V2RayyNGvpn#%3E%3EDR-Anv 🇹🇷
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@trcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=trcdn1.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇹🇷
-vless://f2eeaf91-6ac0-47f3-9673-39476e75c02d@188.114.98.0:2052/?type=ws&encryption=none&flow=&host=metaplayer.gameredzone.top&path=%2Ft.me.V2RayyNGvpn&ed=1024&eh=Sec-WebSocket-Protocol#%3E%3EDR-Anv 🇹🇷
