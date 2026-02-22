@@ -1,1 +1,2 @@
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@138.124.63.58:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%B1%F0%9F%87%BB%20XX 🇱🇻
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@lvcdn4.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%B1%F0%9F%87%BB%20XX%20%F0%9F%87%B1%F0%9F%87%BB%20XX%20XX%20XX%20XX 🇱🇻
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@138.124.63.58:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%B1%F0%9F%87%BB%20XX%20%F0%9F%87%B1%F0%9F%87%BB 🇱🇻

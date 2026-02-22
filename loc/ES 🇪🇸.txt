@@ -1,2 +1,1 @@
-vless://3bca21fc-8ba8-4e1d-9155-710f8eb51ca4@172.64.152.23:2053?path=%2F&security=tls&encryption=none&insecure=0&host=spn.tondha.ir&fp=chrome&type=ws&allowInsecure=0&sni=spn.tondha.ir#%3E%3EDR-Anv 🇪🇸
 hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk#%3E%3EDR-Anv 🇪🇸

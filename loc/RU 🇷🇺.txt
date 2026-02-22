@@ -1,0 +1,1 @@
+vless://14818654-7689-453a-9a1f-4c72f89782d5@spb-node.genadata.online:2040?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63&fp=qq&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&spx=/&headerType=none#%3E%3EDR-Anv 🇷🇺
