@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#%3E%3EDR-Anv 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#%3E%3EDR-Anv%20XX 🇹🇷
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@trcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=trcdn1.suio.me&allowInsecure=1#%3E%3EDR-Anv 🇹🇷
+vless://f2eeaf91-6ac0-47f3-9673-39476e75c02d@188.114.98.0:2052/?type=ws&encryption=none&flow=&host=metaplayer.gameredzone.top&path=%2Ft.me.V2RayyNGvpn&ed=1024&eh=Sec-WebSocket-Protocol#%3E%3EDR-Anv 🇹🇷
