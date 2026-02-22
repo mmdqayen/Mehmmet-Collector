@@ -1,0 +1,1 @@
+trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%3E%3EDR-Anv 🇨🇦
