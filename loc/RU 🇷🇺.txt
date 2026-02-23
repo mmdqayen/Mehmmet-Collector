@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#%3E%3EDR-Anv 🇷🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#%3E%3EDR-Anv 🇷🇺
-vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3EDR-Anv 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
+vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
