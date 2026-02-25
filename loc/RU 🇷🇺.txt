@@ -1,4 +1,3 @@
-vless://9754b2d7-7772-473e-93f7-a2dadd08782b@193.233.231.221:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#%3E%3EDR-Anv 🇷🇺
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3EDR-Anv 🇷🇺
-vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3EDR-Anv 🇷🇺
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3EDR-Anv 🇷🇺
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3EDR-Anv 🇷🇺
