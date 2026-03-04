@@ -1,1 +1,1 @@
-vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=rus62.ruslucker.org#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
+vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=rus62.ruslucker.org#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
