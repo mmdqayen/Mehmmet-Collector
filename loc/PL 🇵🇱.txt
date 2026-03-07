@@ -1,1 +1,1 @@
-vless://76083baf-1fb7-44d0-b241-2d9af1191621@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto#%3E%3EDR-Anv 🇵🇱
+vless://2292ece4-fccf-42af-9673-61e60eb79c51@45.144.51.164:443?type=tcp&security=none#%3E%3EDR-Anv 🇵🇱
