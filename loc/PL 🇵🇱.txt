@@ -1,1 +1,1 @@
-vless://2292ece4-fccf-42af-9673-61e60eb79c51@45.144.51.164:443?type=tcp&security=none#%3E%3EDR-Anv 🇵🇱
+vless://2292ece4-fccf-42af-9673-61e60eb79c51@45.144.51.164:443?type=tcp&security=none#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
