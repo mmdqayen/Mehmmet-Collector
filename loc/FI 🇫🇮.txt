@@ -1,5 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988#%3E%3EDR-Anv 🇫🇮
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn2.suio.me&type=tcp#%3E%3EDR-Anv 🇫🇮
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@45.144.53.229:443?allowInsecure=1&encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%3E%3EDR-Anv 🇫🇮
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@alcdn2.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn2.suio.me&type=tcp#%3E%3EDR-Anv 🇫🇮
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@ficdn16.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%3E%3EDR-Anv 🇫🇮
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn2.suio.me&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@45.144.53.229:443?allowInsecure=1&encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@alcdn2.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn2.suio.me&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@ficdn16.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%AB%F0%9F%87%AE 🇫🇮
