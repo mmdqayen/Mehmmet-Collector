@@ -1,2 +1,2 @@
 vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@83.228.220.126:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#%3E%3EDR-Anv 🇨🇭
-vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%AD 🇨🇭
+vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%A8%F0%9F%87%AD 🇨🇭
