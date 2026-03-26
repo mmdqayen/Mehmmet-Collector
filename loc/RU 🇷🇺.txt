@@ -1,1 +1,0 @@
-vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FZbK0E3QBK7QslwVEXimX6vmXC8cb6826lSLJUkIEgU&security=reality&sni=max.ru&type=tcp#%3E%3EDR-Anv 🇷🇺
