@@ -1,1 +1,2 @@
 vless://27b1a8d5-6169-43fd-a009-c5fd344bcb2c@95.129.234.165:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=f_rci2fprjjzSiFAfiF7GXPSDHCmf6oetM38e8AvQBg&sid=#%3E%3EDR-Anv 🇷🇺
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@79.137.174.103:443?allowInsecure=1&encryption=none&security=tls&sni=ru-portal.meetvideo.ru&type=tcp#%3E%3EDR-Anv 🇷🇺
