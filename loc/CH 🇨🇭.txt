@@ -1,1 +1,1 @@
-vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=%2F&security=tls&encryption=none&insecure=0&host=superconducting.turboo-server.space&type=ws&allowInsecure=0&sni=superconducting.turboo-server.space#%3E%3EDR-Anv 🇨🇭
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%3E%3EDR-Anv 🇨🇭
