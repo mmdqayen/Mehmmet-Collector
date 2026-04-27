@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%3E%3EDR-Anv 🇨🇭
+vless://400097aa-b508-4e4c-9b6d-4f91924ec919@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%3E%3EDR-Anv 🇨🇭
