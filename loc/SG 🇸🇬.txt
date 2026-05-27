@@ -1,1 +1,2 @@
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?encryption=none&type=tcp&headerType=none&security=tls&sni=node1.nanonet.host#%3E%3EDR-Anv 🇸🇬
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?encryption=none&type=tcp&headerType=none&security=tls&sni=node1.nanonet.host#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?encryption=none&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=none&type=ws#%3E%3EDR-Anv 🇸🇬
