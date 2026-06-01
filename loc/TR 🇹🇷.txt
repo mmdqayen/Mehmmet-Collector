@@ -1,0 +1,1 @@
+vless://d89ce48c-f0fa-4edb-bdf1-721aab4b7795@38.180.171.164:26643?security=&encryption=none&headerType=&type=tcp#%3E%3EDR-Anv 🇹🇷
