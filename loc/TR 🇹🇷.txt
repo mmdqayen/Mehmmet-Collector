@@ -1,0 +1,1 @@
+vless://4b76e80a-bde6-411f-a150-7d78f5de4c4f@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=ctur.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=ctur.appleseraj.ir#%3E%3EDR-Anv 🇹🇷
