@@ -1,2 +1,1 @@
-vless://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&security=tls&encryption=none&insecure=0&host=ws23.iranservicepro.com&fp=chrome&type=ws&allowInsecure=0&sni=ws23.iranservicepro.com#%3E%3EDR-Anv 🇬🇧
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
