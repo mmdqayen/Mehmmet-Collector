@@ -1,1 +1,2 @@
-vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?#%3E%3EDR-Anv 🇬🇧
+vless://66112771-584f-4617-8d3c-c0af067e838d@167.172.52.86:12849?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
+vless://cb3291d7-6e00-42b0-a8da-4fcf67fe8469@209.97.179.66:29383?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
