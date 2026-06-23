@@ -1,1 +1,1 @@
-vless://d601a0a9-603d-4267-8196-4ba92c6f5ef4@flae2.faradl.ir:2087?encryption=none&security=none&type=tcp&headerType=http&path=%2F#%3E%3EDR-Anv 🇹🇷
+vless://d601a0a9-603d-4267-8196-4ba92c6f5ef4@flae2.faradl.ir:2087?encryption=none&security=none&type=tcp&headerType=http&path=%2F#%3E%3EDR-Anv%20%F0%9F%87%B9%F0%9F%87%B7 🇹🇷
