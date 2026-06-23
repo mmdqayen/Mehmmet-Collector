@@ -1,0 +1,1 @@
+trojan://MITIVPN@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=mitivpn--4.global.ssl.fastly.net&type=ws#%3E%3EDR-Anv 🇮🇹
